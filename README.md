@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-You can check out the live demo **[Bourtange Quiz](https://ahrens.tk/MapQuizzzes)**. Imagine visiting the **[Bourtange Fortress](https://www.bourtange.de)** and playing it right there on-site. You can also take a look at the **[Münster Quiz](https://ahrens.tk/muensterquiz)** and answer the quiz questions on-site if you ever find yourself in beautiful Münster.
+You can check out the live demo **[Bourtange Quiz](https://ahrens.tk/MapQuizzzes-en)**. Imagine visiting the **[Bourtange Fortress](https://www.bourtange.co.uk)** and playing it right there on-site. You can also take a look at the **[Münster Quiz](https://ahrens.tk/muensterquiz-en)** and answer the quiz questions on-site if you ever find yourself in beautiful Münster.
 
 ---
 
@@ -129,8 +129,6 @@ Done! Your MapQuizzzes instance with your tours is ready and good to go.
 ---
 
 ## 📄 License
-
-This project is licensed under the MIT License. You can find the licensing details in the LICENSE.txt file.
 
 This project is licensed under the **MIT License**. You can find the licensing details in the `LICENSE.txt` file.
 
