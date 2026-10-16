@@ -2,7 +2,7 @@
 
 **MapQuizzzes** is a flexible, web-based framework for creating interactive, GPS-supported outdoor puzzle tours for smartphones. It runs entirely in the user's browser, can be installed as a Progressive Web App (PWA), and does not require users to register or log in.
 
-**German version:** **[https://github.com/ahrens.tk/MapQuizzzes-de](https://github.com/ahrens.tk/MapQuizzzes-de)**
+**German version:** **[https://github.com/ahrenstk/MapQuizzzes-de](https://github.com/ahrenstk/MapQuizzzes-de)**
 
 ---
 
