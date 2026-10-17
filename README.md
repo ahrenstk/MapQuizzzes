@@ -132,6 +132,6 @@ Done! Your MapQuizzzes instance with your tours is ready and good to go.
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. You can find the licensing details in the `LICENSE.txt` file.
+This project is licensed under the **MIT License**. You can find the licensing details in the `LICENSE` file.
 
 ---
