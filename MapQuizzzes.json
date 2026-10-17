@@ -6,7 +6,7 @@
    "quizName":"Bourtange-Quiz",
    "availableTours":["Fortress (Step-by-Step)", "Fortress (Complete Map)", "Fortress (As the Crow Flies)", "Fortress (Freestyle)"],
 "privacyNotice": "The required map data is downloaded directly from the servers of the map providers <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> and <a href='https://www.esri.com/privacy' target='_blank'>Esri</a>.",
-"quizNotice": "<strong>Bourtange-Quiz</strong> is a <strong>demo</strong> of <a href='https://github.com/ahrenstk/MapQuizzzes'>MapQuizzzes</a>.<br>&nbsp;<a href='https://ahrens.tk/MapQuizzzes'>Deutsch</a>&nbsp;<span style='color: #6c757d;'>English</span>&nbsp;<a href='https://ahrens.tk/MapQuizzzes-nl'>Nederlands</a><br><br><br><br>Feel free to check out the <a href='https://ahrens.tk/muensterquiz-en' target='_blank' rel='noopener'>Münster-Quiz</a> as well.",
+"quizNotice": "<strong>Bourtange-Quiz</strong> is a <strong>demo</strong> of <a href='https://github.com/ahrenstk/MapQuizzzes'>MapQuizzzes</a>.<br><br><a href='https://ahrens.tk/MapQuizzzes'>Deutsch</a>&nbsp;<span style='color: #6c757d;'>English</span>&nbsp;<a href='https://ahrens.tk/MapQuizzzes-nl'>Nederlands</a><br><br><br><br>Feel free to check out the <a href='https://ahrens.tk/muensterquiz-en' target='_blank' rel='noopener'>Münster-Quiz</a> as well.",
     "tr": {
         "en": {
             "showHint": "Show hint?",
