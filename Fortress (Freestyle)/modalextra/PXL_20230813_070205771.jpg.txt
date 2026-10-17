@@ -1,0 +1,31 @@
+<div style="font-family: system-ui, -apple-system, sans-serif; color: #333; line-height: 1.6;">
+    
+    <!-- Main heading with Badge & Border -->
+    <div style="border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 16px;">
+        <span style="display: inline-block; background-color: #ebf8ff; color: #2b6cb0; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 3px 8px; border-radius: 4px; margin-bottom: 6px;">
+            Historical Highlight
+        </span>
+        <h2 style="margin: 0; color: #1a365d; font-size: 1.4rem; font-weight: 800;">
+            📍 The Bourtange Market Square
+        </h2>
+    </div>
+
+    <!-- Introductory text -->
+    <p style="margin-top: 0; color: #4a5568; font-size: 0.95rem; line-height: 1.6;">
+        The central market square forms the heart of the Bourtange fortress. The historical road network converges on this square in a star shape, allowing you to reach almost all bastions and moats directly from here.
+    </p>
+
+    <!-- Subheading -->
+    <h3 style="color: #2c5282; font-size: 1.1rem; font-weight: 700; margin-top: 20px; margin-bottom: 10px;">
+        🏛️ Historical Ensemble
+    </h3>
+
+    <!-- Feature list with pure inline styles -->
+    <ul style="list-style: none; padding-left: 0; margin: 0 0 20px 0;">
+        <li style="margin-bottom: 10px; font-size: 0.9rem; color: #4a5568; padding-left: 20px; text-indent: -20px;">
+            <span style="color: #319795; font-weight: bold; margin-right: 6px;">✔</span>
+            <strong style="color: #1a202c;">Linden Trees:</strong> The square is lined with 14 centuries-old linden trees planted in a circle.
+        </li>
+        <li style="margin-bottom: 10px; font-size: 0.9rem; color: #4a5568; padding-left: 20px; text-indent: -20px;">
+            <span style="color: #319795; font-weight: bold; margin-right: 6px;">✔</span>
+            <strong style="color: #1a202c;">Cobblestone:</strong> The original paving from the 16th and 17th centuries gives the sq
