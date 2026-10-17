@@ -4,6 +4,8 @@
 
 **German version:** **[https://github.com/ahrenstk/MapQuizzzes-de](https://github.com/ahrenstk/MapQuizzzes-de)**
 
+**Dutch version:** **[https://github.com/ahrenstk/MapQuizzzes-nl](https://github.com/ahrenstk/MapQuizzzes-nl)**
+
 ---
 
 ## 🚀 Live Demo
