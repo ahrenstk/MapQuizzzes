@@ -84,15 +84,14 @@ The best part first: **MapQuizzzes is completely free!** Your path to your own M
 
 ## 🛠️ Technical Structure
 
-1. `index.php`: Loads the main configuration (`MapQuizzzes.json`), detects the language, and provides the basic HTML structure as well as the configuration data for the JavaScript app. It also serves as an API endpoint to load the data of a selected tour (`quizdata.json`).
 
-2. `MapQuizzzes.js`: The core of the application.
+1. `/index.php\`: Main program, which among other things loads the main configuration (`MapQuizzzes.json`)
 
-3. Configuration Files (`.json`):
+2. `/MapQuizzzes.json\`: Main configuration for language, homepage, and tour selection (subdirectories each including `quizdata.json`)
 
-    - `MapQuizzzes.json`: Global configuration (name, available tours, UI translations).
+3. `/Tourname/quizdata.json`: Configuration file for an individual tour with JSON objects for each location containing image name, coordinates, questions, hints, answers, etc.)
 
-    - `quizdata.json`: Contains all puzzle points for a specific tour (coordinates, questions, answers, images).
+4. `js/MapQuizzzes.js` and `css/MapQuizzzes.css`: JavaScript and CSS of MapQuizzzes
 
 ---
 
