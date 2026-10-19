@@ -14,7 +14,7 @@ You can check out the live demo **[Bourtange-Quiz](https://ahrens.tk/MapQuizzzes
 
 ---
 
-## 🛠️ Who is MapQuizzzes the Perfect Solution For?
+## 🛠️ Who is MapQuizzzes the perfect solution for?
 
 **MapQuizzzes** bridges the gap between the spirit of discovery and digital interaction. It is the ideal tool for anyone who wants to get people moving, inspire them in a playful way, and make knowledge tangible right on-site.
 
