@@ -45,39 +45,23 @@ The best part first: **MapQuizzzes is completely free!** Your path to your own M
 ## ✨ Features
 
 - **Pure Browser Application:** The entire logic runs in the browser. No server-side data storage takes place.
-
 - **PWA-Ready:** Can be added to the home screen of Android and iOS devices just like a native app.
-
 - **No Registration:** Users can get started immediately without needing to create an account.
-
 - **Interactive Maps:** MapQuizzzes uses Leaflet to display map material from OpenStreetMap and Esri.
-
 - **GPS Navigation:** Shows the user's current location and offers a navigation function to the puzzle locations via Google Maps.
-
 - **Flexible Tour Modes:**
-
     - **Step-by-Step:** Unlocks the next puzzle only after the previous one has been solved.
-
     - **Full Map:** All puzzles are visible from the start, including a GPX track.
-
     - **As the Crow Flies:** "Similar to Step-by-Step" but pointing directly with a straight line, without a GPX track.
-
     - **Freestyle:** Similar to "Full Map" but without a GPX track.
-
 - **Versatile Puzzles:**
-
     - Multiple-choice questions or open-ended questions (each with a 3-second answer response time).
-
     - Hints as well as questions can be used optionally.
-
     - An image is used for each location.
-
     - Optionally, additional modals can be opened for each location, and links to external websites can be used.
-
+- **Integrated Privacy Notice:** Consent to enable the two-click method for embedded maps (OpenStreetMap and Esri).
 - **Customizable & Extensible:** All tours, puzzles, and texts are configured using simple `JSON` files.
-
 - **Multi-language Support:** The design is multilingual from the ground up and can easily be extended to support additional languages.
-
 - **Open Source:** Released under the MIT License.
 
 ---
