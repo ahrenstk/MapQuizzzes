@@ -62,7 +62,7 @@ The best part first: **MapQuizzzes is completely free!** Your path to your own M
 - **Integrated Privacy Notice:** Consent to enable the two-click method for embedded maps (OpenStreetMap and Esri).
 - **Customizable & Extensible:** All tours, puzzles, and texts are configured using simple `JSON` files.
 - **Multi-language Support:** The design is multilingual from the ground up and can easily be extended to support additional languages.
-- **Open Source:** Released under the MIT License.
+- **Open Source:** Released under the GPL v3 License (with Tour Data Exception).
 
 ---
 
