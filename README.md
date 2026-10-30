@@ -112,8 +112,26 @@ Done! Your MapQuizzzes instance with your tours is ready and good to go.
 
 ---
 
-## 📄 License
+## 📄 License & Important Data Exception
 
-This project is licensed under the **MIT License**. You can find the licensing details in the `LICENSE` file.
+This project is licensed under the **GNU General Public License v3 (GPL v3)** with a special exception for your creative content. 
+
+### ⚠️ What does this mean for you and your Quiz Data?
+
+To give you and your organization absolute security and freedom when creating tours, we have clearly separated the **software code** from your **creative content**:
+
+1. **The Software Framework (GPL v3):** 
+   The code of MapQuizzzes (PHP, JavaScript, CSS) is open-source. If you or your developers modify, improve, or extend the core software framework, those code changes must remain open-source under the GPL v3.
+
+2. **Your Tour Data & Media (EXCLUDED from GPL v3):** 
+   All your individual tour data, questions, answers, and media files are **completely excluded** from the GPL v3. Specifically, your:
+   * Quiz configurations (`quizdata.json`, `MapQuizzzes.json`)
+   * Uploaded photos, background images, and audio/video assets
+   * Written questions, hints, riddles, and custom modal texts
+
+   **remain 100% your exclusive intellectual property.** You are NOT required to open-source, share, or disclose your quiz questions or images. You are fully free to use your tours for commercial events, keep them private, or sell them.
+
+You can find the detailed terms and conditions in the [LICENSE](https://github.com/ahrenstk/MapQuizzzes/blob/main/LICENSE) file.
+
 
 ---
