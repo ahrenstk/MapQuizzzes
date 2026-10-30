@@ -129,7 +129,7 @@ To give you and your organization absolute security and freedom when creating to
    * Uploaded photos, background images, and audio/video assets
    * Written questions, hints, riddles, and custom modal texts
 
-   **remain 100% your exclusive intellectual property.** You are NOT required to open-source, share, or disclose your quiz questions or images. You are fully free to use your tours for commercial events, keep them private, or sell them.
+   **Remain 100% your exclusive intellectual property.** You are NOT required to open-source, share, or disclose your quiz questions or images. You are fully free to use your tours for commercial events, keep them private, or sell them.
 
 You can find the detailed terms and conditions in the [LICENSE](https://github.com/ahrenstk/MapQuizzzes/blob/main/LICENSE) file.
 
