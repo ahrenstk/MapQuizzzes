@@ -121,7 +121,7 @@ This project is licensed under the **GNU General Public License v3 (GPL v3)** wi
 To give you and your organization absolute security and freedom when creating tours, we have clearly separated the **software code** from your **creative content**:
 
 1. **The Software Framework (GPL v3):** 
-   The code of MapQuizzzes (PHP, JavaScript, CSS) is open-source. If you or your developers modify, improve, or extend the core software framework, those code changes must remain open-source under the GPL v3.
+   The code of MapQuizzzes (PHP, HTML, JavaScript, CSS) is open-source. If you or your developers modify, improve, or extend the core software framework, those code changes must remain open-source under the GPL v3.
 
 2. **Your Tour Data & Media (EXCLUDED from GPL v3):** 
    All your individual tour data, questions, answers, and media files are **completely excluded** from the GPL v3. Specifically, your:
