@@ -62,7 +62,7 @@ The best part first: **MapQuizzzes is completely free!** Your path to your own M
 - **Integrated Privacy Notice:** Consent to enable the two-click method for embedded maps (OpenStreetMap and Esri).
 - **Customizable & Extensible:** All tours, puzzles, and texts are configured using simple `JSON` files.
 - **Multi-language Support:** The design is multilingual from the ground up and can easily be extended to support additional languages.
-- **Open Source:** Released under the GPL v3 License (with Tour Data Exception).
+- **Open Source:** Released under the GNU Affero General Public License v3 (AGPL v3) License (with Tour Data Exception).
 
 ---
 
@@ -114,22 +114,26 @@ Done! Your MapQuizzzes instance with your tours is ready and good to go.
 
 ## 📄 License & Important Data Exception
 
-This project is licensed under the **GNU General Public License v3 (GPL v3)** with a special exception for your creative content. 
+This project is licensed under the **GNU Affero General Public License v3 (AGPL v3)** with a special exception for your creative content. 
 
 ### ⚠️ What does this mean for you and your Quiz Data?
 
 To give you and your organization absolute security and freedom when creating tours, we have clearly separated the **software code** from your **creative content**:
 
-1. **The Software Framework (GPL v3):** 
-   The code of MapQuizzzes (PHP, HTML, JavaScript, CSS) is open-source. If you or your developers modify, improve, or extend the core software framework, those code changes must remain open-source under the GPL v3.
+1. **The Software Framework (AGPL v3):** 
 
-2. **Your Tour Data & Media (EXCLUDED from GPL v3):** 
-   All your individual tour data, questions, answers, and media files are **completely excluded** from the GPL v3. Specifically, your:
+   The code of MapQuizzzes (PHP, HTML, JavaScript, CSS) is open-source. If you or your developers modify, improve, or extend the core software framework, those code changes must remain open-source under the AGPL v3. Because MapQuizzzes is a web application, this also explicitly applies if you host the modified version on a server and make it available to users over a network (SaaS) – the modified source code must be made available to those users.
+
+2. **Your Tour Data & Media (EXCLUDED from AGPL v3):** 
+
+   All your individual tour data, questions, answers, and media files are **completely excluded** from the AGPL v3. Specifically, your:
+
    * Quiz configurations (`quizdata.json`, `MapQuizzzes.json`)
    * Uploaded photos, background images, and audio/video assets
    * Written questions, hints, riddles, and custom modal texts
 
    **Remain 100% your exclusive intellectual property.** You are NOT required to open-source, share, or disclose your quiz questions or images. You are fully free to use your tours for commercial events, keep them private, or sell them.
+
 
 You can find the detailed terms and conditions in the [LICENSE](https://github.com/ahrenstk/MapQuizzzes/blob/main/LICENSE) file.
 
